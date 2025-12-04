@@ -6,6 +6,6 @@ document.addEventListener('DOMContentLoaded', () => {
        
         message.textContent = "Success! JavaScript is fully functional on the deployed site!";
         button.style.backgroundColor = '#ffc107';
-        button.textContent = 'JS Verified';
+        button.textContent = 'Verified';
     });
 });
